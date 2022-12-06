@@ -2,19 +2,19 @@ package day3;
 
 public class Rucksacks {
 
-//    public static char duplicateFinder(String item) {
-//        char duplicate = '/';
-//        int length = item.length();
-//        int halfLen = length / 2;
-//        for (int i = 0; i < halfLen; i++) {
-//            for(int j = halfLen ; j < length; j++) {
-//                if (item.charAt(i) == item.charAt(j)) {
-//                    duplicate =  item.charAt(i);
-//                }
-//            }
-//        }
-//        return duplicate;
-//    }
+    public static char duplicateFinder(String item) {
+        char duplicate = '/';
+        int length = item.length();
+        int halfLen = length / 2;
+        for (int i = 0; i < halfLen; i++) {
+            for(int j = halfLen ; j < length; j++) {
+                if (item.charAt(i) == item.charAt(j)) {
+                    duplicate =  item.charAt(i);
+                }
+            }
+        }
+        return duplicate;
+    }
 
     public static char duplicateFinderFromThree(String item1, String item2, String item3) {
 
