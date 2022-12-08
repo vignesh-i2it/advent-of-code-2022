@@ -1,7 +1,7 @@
 # Advent of code - Java
 
         
-/!\ will be lousy...
+/!\ will be lousy
 
 ## 2022
 - [Day 1](https://github.com/vignesh-i2it/advent-of-code-2022/blob/master/src/day1)
