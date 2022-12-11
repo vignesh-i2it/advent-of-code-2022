@@ -1,6 +1,6 @@
 package day8;
 
-public class InputFile {
+public class Day8InputFile {
 
     public static String sampleInput = """
 30373

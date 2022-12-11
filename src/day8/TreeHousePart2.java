@@ -10,7 +10,7 @@ import java.util.ArrayList;
  */
 public class TreeHousePart2 {
 
-    public static String input = InputFile.input;
+    public static String input = Day8InputFile.input;
 
     public static ArrayList<ArrayList<Integer>> grid = new ArrayList<>();
 
