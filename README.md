@@ -13,4 +13,5 @@
 - Day 7 
 - [Day 8](https://github.com/vignesh-i2it/advent-of-code-2022/blob/master/src/day8)
 - [Day 9](https://github.com/vignesh-i2it/advent-of-code-2022/blob/master/src/day9)
+- [Day 10](https://github.com/vignesh-i2it/advent-of-code-2022/blob/master/src/day10)
 
